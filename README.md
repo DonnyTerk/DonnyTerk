@@ -95,6 +95,6 @@ My passion for **backend development** is fueled by:
 <!-- Fun Footer -->
 <p align="center">
   💻 <i>“Code is the bridge between ideas and impact.”</i>  
-  <br>✨ Always learning. Always building. ✨
+  <br>✨ Always learning. Always developing. ✨
 </p>
 ```
