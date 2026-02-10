@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm Donatua Terkuma</h1>
+<h1 align="center">👋 Hi there, I'm Donatua Udugh</h1>
 <h3 align="center">Back-End Developer | Software Engineer in Training @ ALX</h3>
 
 ---
