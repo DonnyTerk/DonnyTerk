@@ -1,7 +1,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hi there, I'm Donatua Udugh</h1>
-<h3 align="center">Back-End Developer | Software Engineer in Training @ ALX</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 ### 🧩 About Me
 
 <p align="justify">
-I'm a passionate <strong>Back-End Developer</strong> currently learning at <strong>ALX Software Engineering Program</strong>.  
+I'm a passionate <strong>Back-End Developer</strong> currently contributing to open source project such as Auxobots and GenLayer <strong>ALX Software Engineering Program</strong>.  
 My journey into tech started with an endless curiosity about how systems work behind the scenes — from logic to architecture.  
 I’m driven by a desire to <strong>dev beyond limits and build robust servers</strong> that power seamless digital experiences.  
 Coding isn’t just a skill for me; it’s a way to create, to automate, and to impact.
