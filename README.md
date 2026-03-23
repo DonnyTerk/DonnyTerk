@@ -9,7 +9,7 @@
 ### 🧩 About Me
 
 <p align="justify">
-I'm a passionate <strong>Back-End Developer</strong> currently contributing to open source project such as Auxobots and GenLayer <strong>ALX Software Engineering Program</strong>.  
+I'm a passionate <strong>Software Developer</strong> currently contributing to open source project such as Auxobots and GenLayer <strong>/strong>.  
 My journey into tech started with an endless curiosity about how systems work behind the scenes — from logic to architecture.  
 I’m driven by a desire to <strong>dev beyond limits and build robust servers</strong> that power seamless digital experiences.  
 Coding isn’t just a skill for me; it’s a way to create, to automate, and to impact.
@@ -72,9 +72,9 @@ My passion for **backend development** is fueled by:
 ---
 
 <!-- Learning Goals -->
-### 🎯 My Goals for 2025
+### 🎯 My Goals for 2026
 
-- Build and deploy at least **3 production-ready APIs**
+- Build and deploy at least **10 production-ready APIs**
 - Contribute to **open-source backend projects**
 - Earn my first **remote backend internship/job**
 - Mentor new developers joining ALX
