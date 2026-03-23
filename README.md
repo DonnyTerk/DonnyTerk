@@ -9,7 +9,7 @@
 ### 🧩 About Me
 
 <p align="justify">
-I'm a passionate <strong>Software Developer</strong> currently contributing to open source project such as Auxobots and GenLayer <strong>/strong>.  
+I'm a passionate <strong>Software Developer</strong> currently contributing to open source project such as Auxobots and GenLayer.  
 My journey into tech started with an endless curiosity about how systems work behind the scenes — from logic to architecture.  
 I’m driven by a desire to <strong>dev beyond limits and build robust servers</strong> that power seamless digital experiences.  
 Coding isn’t just a skill for me; it’s a way to create, to automate, and to impact.
